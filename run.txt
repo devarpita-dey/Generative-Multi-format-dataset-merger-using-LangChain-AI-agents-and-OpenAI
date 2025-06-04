@@ -1,0 +1,8 @@
+COMMAND FOR RUNNING merge.py
+
+python merge.py --primary_key id --output final_merged2.csv
+
+
+COMMAND FOR RUNNING merge_datasets.py
+
+python merge_datasets.py --primary_key id --output final_merged.csv
